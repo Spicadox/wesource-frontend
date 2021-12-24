@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wesource-frontend/static/css/main.83296288.css",
+    "main.js": "/wesource-frontend/static/js/main.99502f9e.js",
+    "static/media/unauthorizedSVG.svg": "/wesource-frontend/static/media/unauthorizedSVG.b606841146c920b82ea1b8e89fba4513.svg",
+    "static/media/Astronaut-01.svg": "/wesource-frontend/static/media/Astronaut-01.bc754a5b8a10c14e55a192ab1196a76d.svg",
+    "static/media/W.svg": "/wesource-frontend/static/media/W.8cc3104fabbb6967a29220c54405abc3.svg",
+    "index.html": "/wesource-frontend/index.html",
+    "main.83296288.css.map": "/wesource-frontend/static/css/main.83296288.css.map",
+    "main.99502f9e.js.map": "/wesource-frontend/static/js/main.99502f9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83296288.css",
+    "static/js/main.99502f9e.js"
+  ]
+}
