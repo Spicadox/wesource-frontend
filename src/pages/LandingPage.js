@@ -38,10 +38,7 @@ const LandingPage = () => {
                    <Typography variant={"h2"}>WeSource</Typography>
                    <Box sx={{width:425}}>
                         <Typography variant="h6" sx={{padding:"5px 10px", fontWeight:400}}>
-                            Lorem ipsum dolor sit amet, 
-                            consectetur adipiscing elit, 
-                            do eiusmod tempor incididunt ut 
-                            labore et dolore magna aliqua. 
+                            WeSource is a platform designed to provide users with opportunities to crowdsource and acquire foreign goods. 
                         </Typography>
                     </Box>
                     <Box style={{paddingTop:"20px", flex:1, display:"flex"}}>
